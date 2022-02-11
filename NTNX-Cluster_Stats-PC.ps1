@@ -1,8 +1,10 @@
 #################################################################################################
 #
 # NTNX-Cluster_Stats-PC.ps1
-# Modified: 08/25/21
+# Modified: 02/02/22
 # Version:  2.1
+#
+# - 02/02/22 - Added comments and cleaned up some code
 #
 # Description: This script utalizes several API calls from both Prism Central and Prism Element 
 #              to pull the following cluster summary information.
